@@ -1,0 +1,18 @@
+/* BG COLORS */
+.bg-pale-blue {background-color: #e0e8ff}
+.bg-bright-blue {background-color: #3829e0}
+.bg-very-pale-blue {background-color: #f5f7ff}
+.bg-desaturated-blue {background-color: #7280a7}
+.bg-dark-blue {background-color: #1f2f56}
+
+/* TEXT COLORS */
+.text-pale-blue {color: #e0e8ff}
+.text-bright-blue {color: #3829e0}
+.text-very-pale-blue {color: #f5f7ff}
+.text-desaturated-blue {color: #7280a7}
+.text-dark-blue {color: #1f2f56}
+
+/* FONT WEIGHTS */
+.fw-500 {font-weight: 500}
+.fw-700 {font-weight: 700}
+.fw-900 {font-weight: 900}
